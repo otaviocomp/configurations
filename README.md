@@ -1,1 +1,1 @@
-i3 windows manager configuration
+configurations files of  many programs
